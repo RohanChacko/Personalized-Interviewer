@@ -3,7 +3,7 @@ Personalized Interview question generator based on intelligent resume parsing us
 
 
 ## Link to presentation
-[Google Drive Link](https://drive.google.com/file/d/1GBQjrUJ0pBEuZSbd8A3UT47PZ7_mfnCu/view?usp=sharing)
+[Google Drive Link](https://drive.google.com/file/d/1fSKj337xdtBRunR653tOCgbDJK2-lYGp/view?usp=sharing)
 
 ## Setting up the Parser servers
 `cd QuestionGeneration`  
