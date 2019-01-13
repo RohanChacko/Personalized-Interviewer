@@ -191,3 +191,7 @@ Personalized Interview question generator based on intelligent resume parsing us
 
 ## Credits
 <https://github.com/sumehta/question-generation>
+
+## License
+The MIT License https://rohanc.mit-license.org/  
+Copyright &copy; 2019 Rohan Chacko <rohanchacko007@gmail.com>
